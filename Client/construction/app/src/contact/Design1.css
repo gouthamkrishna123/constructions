@@ -1,0 +1,95 @@
+.one{
+    background-image: url(../images/homeimag.jpg);
+    background-color: gray;
+    
+}
+.form-control {
+  background-color: rgb(253, 214, 214) !important;
+  color: rgb(104, 7, 60);
+  height: 55px !important;
+  width: 80% !important;
+}
+.react-tel-input {
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+}
+
+.flag-dropdown {
+  background-color: rgb(240, 205, 159) !important;
+}
+
+/* .contact-header {
+  background-color: black;
+  position: relative;
+}
+
+.contact-img {
+  width: 100%;
+  height: 350px;
+  opacity: 0.3;
+}
+
+.contact-title {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translateY(-50%);
+  font-size: 70px;
+  color: white;
+}
+
+.contact-content {
+  margin-top: 50px;
+}
+
+.contact-line {
+  width: 100px;
+  height: 5px;
+  background: red;
+  margin: 0 auto;
+}
+
+.contact-body {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.contact-projects {
+  box-shadow: 5px 10px 30px 30px lightgray;
+  width: 45%;
+  text-align: center;
+}
+
+.projects-carousel {
+  border: 4px solid red;
+  margin: 20px;
+}
+
+.contact-form {
+  width: 45%;
+}
+
+.form-group {
+  margin: 20px 0;
+}
+
+.form-control {
+  width: 80%;
+  border: 1px solid grey;
+  height: 40px;
+  margin: 0 auto;
+}
+
+.form-radio {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-submit {
+  width: 200px;
+  height: 50px;
+  background-color: red;
+  color: white;
+  margin: 20px auto;
+} */
